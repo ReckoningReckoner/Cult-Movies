@@ -1,5 +1,4 @@
 This is our app for McHacks
 
-hi
-
-Does this work 
+BridAPI's METACRITIC API:
+https://github.com/BirdAPI/Metacritic-Scraper-API
