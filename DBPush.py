@@ -16,7 +16,7 @@ def get_cult(title):
             user_score = int(float(r.user_score))*10
             release_date = datetime.strptime(r.release_date, '%B %d, %Y').strftime("%Y-%m-%d")
             if is_cult(metascore, user_score):
-                yield r.id, r.title, metascore, user_score, release_date, r.link
+                yield r.id, r.title, metascore, user_score, release_date, r.link, r.tags, r.image, r.summary
                 
 db = mysql.connector.connect(user='sql5107655', 
                             password='izqAeyN6Yu', 
@@ -27,23 +27,24 @@ cursor = db.cursor()
 i = 0
 with open("movies.list.txt") as f:
     for line in f:
+        if i == 100:
+           break;
+                  
         try:
             line = f.readline()
             line = shlex.split(line)
             print(i)
-            for id, title, metascore, user_score, release_date, url in get_cult(line[0]):
+            for id, title, metascore, user_score, release_date, url, tags, image, summary in get_cult(line[0]):
                 try:
-                    print(id, title, metascore, user_score, url, release_date)
-                    args = (id, title, metascore, user_score, url, release_date)
-                    command = "INSERT INTO `movie` VALUES(%s, %s, %s, %s, %s, %s) "
+                    print(id, title, metascore, user_score, url, release_date, tags, image, summary)
+                    args = (id, title, metascore, user_score, url, release_date, tags, image, summary)
+                    command = "INSERT INTO `movie` VALUES(%s, %s, %s, %s, %s, %s, %s, %s, %s) "
                     cursor.execute(command, args)
                 except:
                     print(sys.exc_info()[0])
                     continue
             i += 1
-            
         except:
-            print(sys.exc_info()[0])
             continue
             
 db.commit()

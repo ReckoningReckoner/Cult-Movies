@@ -57,6 +57,8 @@ class SearchResult:
         self.summary = None
         self.user_score = None
         self.runtime = None
+        self.tags = ""
+        self.image = ""
         
 class Metacritic:
 
@@ -66,12 +68,13 @@ class Metacritic:
         html = get_html(url)
         if not html:
             return None
+            
         soup = BeautifulSoup(html)
         i = 0
         page = 0
         allresults = []
         results = soup.findAll("li", "result")
-
+        
         for result in results:
             res = SearchResult()
             result_type = result.find("div", "result_type")
@@ -109,10 +112,22 @@ class Metacritic:
             
             res.runtime = get_li_span_data(result, "runtime")
             
+            tags = get_li_span_data(result, "stat genre").replace(" ", "")
+            if tags:
+                res.tags = tags
+                            
             res.index = i
             res.page = page
             allresults.append(res)
+            
+            url_img = get_html(res.link)
+            soup_img = BeautifulSoup(url_img)
+            for img in soup_img.findAll("img", "product_image", "src"):
+                res.image = img['src']
+                break
+
             i = i + 1
+            
         return allresults
 
     @staticmethod
@@ -255,7 +270,9 @@ def get_html(url):
         return None 
     
 def main():
-   results = Metacritic.search("Pulp Fiction")
+   results = Metacritic.search("American Ultra")
+   for r in results:
+       print(r.summary)
 
 
 if __name__ == "__main__":

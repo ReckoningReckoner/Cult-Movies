@@ -1,0 +1,1432 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+<html xmlns:og="http://opengraphprotocol.org/schema/"
+      xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+        	<title>Inside Out - Reviews, Articles, People, Trailers and more at Metacritic - Metacritic</title>
+	
+    
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function c(n,r,o){t&&t(n,r,o);for(var i=e(o),a=f(n),c=a.length,u=0;c>u;u++)a[u].apply(i,r);return i}function u(t,e){p[t]=f(t).concat(e)}function f(t){return p[t]||[]}function s(){return r(c)}var p={};return{on:u,emit:c,create:s,listeners:f,context:e,_events:p}}function o(){return new n}var i="nr@context",a=t("gos");e.exports=r()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!v++){var t=l.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(p,function(e,n){t[e]||(t[e]=n)});var n="https"===s.split(":")[0]||t.sslForHttp;l.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=l.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),c=t(1),u=window,f=u.document;t(2);var s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-852.min.js"},d=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),l=e.exports={offset:i(),origin:s,features:{},xhrWrappable:d};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",n)),a("mark",["firstbyte",i()]);var v=0},{1:12,2:3,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],12:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],13:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}]},{},["G9z0Bl"]);</script>
+
+    
+    <meta name="description" content="Search results for Inside Out at Metacritic.com">
+
+    
+    
+    <meta name="viewport" content="width=1024">
+
+
+    
+    <meta  name="robots" content="NOINDEX, FOLLOW">
+
+
+    
+    <meta name="application-name" content="Metacritic">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="msapplication-TileImage" content="/images/win8tile/76bf1426-2886-4b87-ae1c-06424b6bb8a2.png">
+
+    
+    
+    
+    
+
+    
+    
+    <link rel="stylesheet" href="/css/global.min.1455913579.css" type="text/css">
+<link rel="stylesheet" href="/css/search/base.min.1455913507.css" type="text/css">
+
+
+    
+    
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+    
+        
+    
+			
+				    
+
+    
+    
+    <script type="text/javascript" src="/js/global.min.1455913579.js"></script>
+
+
+    
+    <script src="//cdn.optimizely.com/js/2333541344.js"></script>
+
+    <script type="text/javascript">
+        
+        
+        
+        function beanstockLoaded() {
+            MetaC.displayAds();
+        }
+        var beanstockTimeout = setTimeout(function(){
+            MetaC.displayAds();
+        }, 500);
+
+        (function() {
+            var bsm_nucleus = document.createElement("script");
+            bsm_nucleus.async = true;
+            bsm_nucleus.type = "text/javascript";
+            var useSSL = "https:" == document.location.protocol;
+            bsm_nucleus.id = 'cx-nuke';
+            bsm_nucleus.src = (useSSL ? "https:" : "http:") + "//cdn.beanstock.com/pub/cx/flagTag.js";
+            bsm_nucleus.setAttribute('data-bsm-pub', "cbsinteractive");
+            bsm_nucleus.setAttribute('data-bsm-pub-zone', "metacritic.com/nucleus");
+            bsm_nucleus.setAttribute('data-bsm-sizes', "728x90 300x250");
+            bsm_nucleus.setAttribute('data-bsm-zone-map-url', "//cdn.beanstock.com/pub/cbsinteractive/zm.js");
+            bsm_nucleus.setAttribute('data-bsm-event-host', "//helix.beanstock.co");
+            bsm_nucleus.setAttribute('data-bsm-flag', "true");
+            bsm_nucleus.setAttribute('data-bsm-version', "v3");
+            if (bsm_nucleus.addEventListener) {
+                bsm_nucleus.addEventListener("onNucleusComplete", beanstockLoaded);
+            }
+            else {
+                bsm_nucleus.attachEvent("onNucleusComplete", beanstockLoaded);
+            }
+
+            var node = document.getElementsByTagName("script")[0];
+            node.parentNode.insertBefore(bsm_nucleus, node);
+        })();
+        
+
+
+        
+        
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        window.metac_ads_pushdisplay = window.metac_ads_pushdisplay || [];
+        window.metac_gallery_ads_pushdisplay = window.metac_gallery_ads_pushdisplay || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +'//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+        
+
+        
+    	MC_USER_LOGGED_IN = false;
+        
+        
+            </script>
+
+    
+    
+
+    
+    <script type="text/javascript" src="//native.sharethrough.com/assets/tag.js" async></script>
+</head>
+<body>
+
+
+
+<div id="site_layout">
+    <div id="masthead">
+        
+
+                    <div id="omnibar_wrapper">
+                
+        <div id="omnibar" class="ad_unit">
+                        
+                            <script type="text/javascript">
+                                            
+                        googletag.cmd.push(function() {
+                        
+                                                            window.metac_g_ad_omnibar = googletag.defineSlot("/8264/aw-metacritic/search",[980,45], "omnibar").addService(googletag.pubads()).setTargeting("pos", "top").setCollapseEmptyDiv(true, true);
+                                                        
+                        
+                        });
+                        
+
+                        window.metac_ads_pushdisplay.push("omnibar");
+                                    </script>
+                            </div>
+    
+
+
+            </div>
+                <div id="masthead_primary">
+            <div class="masthead_wrap">
+                <div class="logo">
+    <a href="http://www.metacritic.com">
+        
+        <img src="/images/layout/mc_logo_inverted.png">
+    </a>
+</div>
+                    <div class="masthead_search">
+        <div class="search basic_search has_adv_search_link">
+        <div class="search_section basic_search_section">
+            <form class="search" method="post" action="/search">
+                <fieldset>
+                    <legend>Basic Search Fields</legend>
+                    <div class="search_wrap">
+                        
+                        <ol class="fields search_fields">
+                            
+                            <li class="field search_field search_query">
+                                <div class="field_wrap">
+                                    <span class="field">
+                                        <input class="text" type="text" size="50" name="search_term" id="masthead_search_term" tabindex="1" value="Inside Out" autocomplete="off" />
+                                    </span>
+                                    <span class="search_msg">
+                                        Search Metacritic
+                                    </span>
+                                </div>
+                            </li>
+                            <li class="field search_field search_submit">
+                                <div class="submit"><div class="btn"><button class="submit" type="submit"><span>Search</span></button></div></div>
+                            </li>
+                            <li class="field hidden">
+                                <input type="hidden" name="search_filter" value="movie" />
+                            </li>
+                        </ol>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+		
+		
+		
+		
+
+		
+		
+		
+		
+    </div>
+    </div>
+
+
+                <div id="primary_nav">
+    <ul class="nav_items primary_nav">
+                <li class="nav nav_movies has_menu_set">
+            <span class="nav_item menu_hover_toggler">
+                <span class="nav_item_wrap">
+                    <a href="http://www.metacritic.com/movie">
+                        <span class="nav_text">Movies</span>
+                    </a>
+                                            <span class="menu_click_toggler">&raquo;</span>
+                                    </span>
+            </span>
+                            <div id="primary_nav_movies_menu" class="menu_items primary_nav_menu">
+                    <ul class="menu_items">
+                                            <li class="menu_item">
+                            <a href="http://www.metacritic.com/browse/movies/release-date/theaters/date">In Theaters</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="http://www.metacritic.com/browse/dvds/release-date/new-releases/date">DVD / Blu-ray</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="http://www.metacritic.com/browse/movies/release-date/coming-soon/date">Coming Soon</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="http://www.metacritic.com/browse/movies/trailers/date">Trailers</a>
+                        </li>
+                                        </ul>
+                </div>
+                    </li>
+                <li class="nav nav_games has_menu_set">
+            <span class="nav_item menu_hover_toggler">
+                <span class="nav_item_wrap">
+                    <a href="http://www.metacritic.com/game">
+                        <span class="nav_text">Games</span>
+                    </a>
+                                            <span class="menu_click_toggler">&raquo;</span>
+                                    </span>
+            </span>
+                            <div id="primary_nav_games_menu" class="menu_items primary_nav_menu">
+                    <ul class="menu_items">
+                                            <li class="menu_item">
+                            <a href="http://www.metacritic.com/game/playstation-4">PS4</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="http://www.metacritic.com/game/xbox-one">Xbox One</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="http://www.metacritic.com/game/playstation-3">PS3</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="http://www.metacritic.com/game/xbox-360">Xbox 360</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="http://www.metacritic.com/game/pc">PC</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="http://www.metacritic.com/game/wii-u">Wii U</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="http://www.metacritic.com/game/3ds">3DS</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="http://www.metacritic.com/game/playstation-vita">PS Vita</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="http://www.metacritic.com/game/ios">iPhone/iPad</a>
+                        </li>
+                                            <li class="menu_item">
+                            <a href="http://www.metacritic.com/game/legacy">Legacy</a>
+                        </li>
+                                        </ul>
+                </div>
+                    </li>
+                <li class="nav nav_tv">
+            <span class="nav_item">
+                <span class="nav_item_wrap">
+                    <a href="http://www.metacritic.com/tv">
+                        <span class="nav_text">TV</span>
+                    </a>
+                                    </span>
+            </span>
+                    </li>
+                <li class="nav nav_music">
+            <span class="nav_item">
+                <span class="nav_item_wrap">
+                    <a href="http://www.metacritic.com/music">
+                        <span class="nav_text">Music</span>
+                    </a>
+                                    </span>
+            </span>
+                    </li>
+                <li class="nav nav_features">
+            <span class="nav_item">
+                <span class="nav_item_wrap">
+                    <a href="http://www.metacritic.com/feature">
+                        <span class="nav_text">Features</span>
+                    </a>
+                                    </span>
+            </span>
+                    </li>
+            </ul>
+</div>
+
+                <div class="clr"></div>
+            </div>
+        </div>
+        <div id="masthead_secondary">
+            <div class="masthead_wrap">
+                
+                
+<div id="userpanel">
+    <div class="panel_wrap logged_out">
+                <div class="user_options">
+            <div class="user_options_label">User Panel Options!!</div>
+            <ul class="user_options">
+                                    <li class="user_option login">
+                        <a name="login" href="https://secure.metacritic.com/login">Log In</a>
+                    </li>
+                    <li class="user_option signup">
+                        <a name="signup" href="https://secure.metacritic.com/signup">Sign up</a>
+                    </li>
+                                
+            </ul>
+        </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+    
+                        <div id="mantle_skin" class="site_gutters">
+                        <div id="gutters" class="site_gutters">
+                    <div id="superleader">
+        <div id="leader_plus_top" class="ad_unit">
+                        
+                            <script type="text/javascript">
+                                            
+                        googletag.cmd.push(function() {
+                        
+                                                            window.metac_g_ad_leader_plus_top = googletag.defineSlot("/8264/aw-metacritic/search",[[728,90],[970,66],[970,250],[728,91]], "leader_plus_top").addService(googletag.pubads()).setTargeting("pos", "top");
+                                                        
+                        
+                        });
+                        
+
+                        window.metac_ads_pushdisplay.push("leader_plus_top");
+                                    </script>
+                            </div>
+    
+
+</div>
+                <div id="gutters_mid" class="site_gutters">
+            <div id="gutters_btm" class="site_gutters">
+                <div id="gutters_top" class="site_gutters">
+                    <div id="container">
+
+<div id="col_layout" class="col_layout">
+        <div id="main_content" class="content_section mpu_layout">
+                <div class="layout">
+                        
+            
+                        <div id="main" class="col main_col">
+                        <div class="module search_module">
+                <div class="search_filters">
+        <ol class="search_filters">
+                                <li class="search_filter filter_all first_filter">
+                <span class="filter_item">
+                    <span class="filter_item_wrap">
+                                                    <a rel="nofollow" class="all" href="/search/all/Inside%2BOut/results">
+                                <span class="link_text">All Items</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                <li class="search_filter filter_movie">
+                <span class="filter_item">
+                    <span class="filter_item_wrap">
+                                                    <span class="active"><span class="link_text">Movies</span></span>
+                                            </span>
+                </span>
+            </li>
+                                <li class="search_filter filter_game">
+                <span class="filter_item">
+                    <span class="filter_item_wrap">
+                                                    <a rel="nofollow" class="game" href="/search/game/Inside%2BOut/results">
+                                <span class="link_text">Games</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                <li class="search_filter filter_album">
+                <span class="filter_item">
+                    <span class="filter_item_wrap">
+                                                    <a rel="nofollow" class="album" href="/search/album/Inside%2BOut/results">
+                                <span class="link_text">Albums</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                <li class="search_filter filter_tv">
+                <span class="filter_item">
+                    <span class="filter_item_wrap">
+                                                    <a rel="nofollow" class="tv" href="/search/tv/Inside%2BOut/results">
+                                <span class="link_text">TV Shows</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                <li class="search_filter filter_person">
+                <span class="filter_item">
+                    <span class="filter_item_wrap">
+                                                    <a rel="nofollow" class="person" href="/search/person/Inside%2BOut/results">
+                                <span class="link_text">Person</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                <li class="search_filter filter_video">
+                <span class="filter_item">
+                    <span class="filter_item_wrap">
+                                                    <a rel="nofollow" class="video" href="/search/video/Inside%2BOut/results">
+                                <span class="link_text">Trailers</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                <li class="search_filter filter_company last_filter">
+                <span class="filter_item">
+                    <span class="filter_item_wrap">
+                                                    <a rel="nofollow" class="company" href="/search/company/Inside%2BOut/results">
+                                <span class="link_text">Companies</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                </ol>
+    </div>
+
+        <div class="search basic_search has_adv_search_link">
+        <div class="search_section basic_search_section">
+            <form class="search" method="post" action="/search">
+                <fieldset>
+                    <legend>Basic Search Fields</legend>
+                    <div class="search_wrap">
+                        
+                        <ol class="fields search_fields">
+                            
+                            <li class="field search_field search_query">
+                                <div class="field_wrap">
+                                    <span class="field">
+                                        <input class="text" type="text" size="50" name="search_term" id="search_term" value="Inside Out" autocomplete="off" />
+                                    </span>
+                                    <span class="search_msg">
+                                        Search Metacritic
+                                    </span>
+                                </div>
+                            </li>
+                            <li class="field search_field search_submit">
+                                <div class="submit"><div class="btn"><button class="submit" type="submit"><span>Search</span></button></div></div>
+                            </li>
+                            <li class="field hidden">
+                                <input type="hidden" name="search_filter" value="movie" />
+                            </li>
+                        </ol>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+		
+		
+		
+		
+
+		
+		
+		
+		
+    </div>
+    </div>
+
+
+            <div class="module search_results">
+                        <div class="body">
+                                    <div>
+                                                <p class="query_results">Showing 5 results</p>
+                        <a class="advanced_search_beta" href="/advanced-search">Advanced Search Beta &raquo;</a>
+                        <div class="clr"></div>
+                    </div>
+
+                                                    <div class="tabs ">
+        <div class="tab_wrap">
+                            <ul class="tabs tabs_type_1">            <li class="tab tab_type_1 tab_relevancy first">
+                                    <span class="active"><span>Relevancy</span></span>
+                            </li>
+                                                        <li class="tab tab_type_1 tab_score">
+                                                        <a  href="/search/movie/Inside+Out/results?sort=score"><span>Score</span></a>
+                            </li>
+                                                        <li class="tab tab_type_1 tab_recent last">
+                                                        <a  href="/search/movie/Inside+Out/results?sort=recent"><span>Most Recent</span></a>
+                            </li>
+            </ul>            
+    
+    
+            </div>
+    </div>
+    
+    
+
+                    
+                    
+                    <script type="text/javascript" charset="utf-8">
+                      (function(G,o,O,g,L,e){G[g]=G[g]||function(){(G[g]['q']=G[g]['q']||[]).push(
+                       arguments)},G[g]['t']=1*new Date;L=o.createElement(O),e=o.getElementsByTagName(
+                       O)[0];L.async=1;L.src='//www.google.com/adsense/search/async-ads.js';
+                      e.parentNode.insertBefore(L,e)})(window,document,'script','_googCsa');
+                    </script>
+
+                    <div id="adcontainer1" class="gsa_container"></div>
+
+                    <script type="text/javascript" charset="utf-8">
+                    var pageOptions = {
+                        'pubId': 'cnet-metacritic-search',
+                        'query': 'Inside Out',
+                        'channel': 'search',
+                        'hl': 'en',
+                        'adPage': 1,
+                        'adtest': 'off',
+                        'longerHeadlines': true,
+                        'sellerRatings': true,
+                        'plusOnes': true,
+                        'location':true
+                    };
+
+                    var adblock1 = {
+                      'container': 'adcontainer1',
+                      'maxTop': 3,
+                      'width': '625px',
+                      'lines': 3,
+                      'fontSizeTitle': 14,
+                      'noTitleUnderline': true
+                    };
+
+                    var adblock2 = {
+                      'container': 'adcontainer2',
+                      'number': 3,
+                      'width': '625px',
+                      'lines': 3,
+                      'fontSizeTitle': 14,
+                      'noTitleUnderline': true
+                    };
+
+                    _googCsa('ads', pageOptions, adblock1, adblock2);
+                    </script>
+                    
+        
+                    <ul class="search_results module">
+                                            
+                                                                                                                                                                                                                                                                                                                
+                        <li class="result first_result">
+                            <div class="result_type">
+                                <strong>Movie</strong>
+                                                            </div>
+        
+                            <div class="result_wrap">
+                                <div class="basic_stats has_score">
+                                    <div class="main_stats">
+                                        <h3 class="product_title basic_stat"><a href="/movie/inside-out-2015">Inside Out</a></h3>
+                                                                                                                
+
+        
+<span class="metascore_w medium movie positive">94</span>
+
+                                        
+                                                                        </div>
+                                                                                                                                        <div class="more_stats extended_stats">
+            <ul class="more_stats">
+                                                            <li class="stat release_date">
+                            <span class="label">Release Date:</span>
+                            <span class="data">June 19, 2015</span>
+                        </li>
+                                                                        <li class="stat rating">
+                        <span class="label">Rated:</span>
+                        <span class="data">
+                                                            PG
+                                                    </span>
+                    </li>
+                                                    <li class="stat cast">
+                        <span class="label">Starring:</span>
+                        <span class="data">
+                                                            Amy Poehler,                                                             Bill Hader,                                                             Lewis Black,                                                             Mindy Kaling,                                                             Phyllis Smith                                                    </span>
+                    </li>
+                                                    <li class="stat genre">
+                        <span class="label">Genre(s):</span>
+                        <span class="data">
+                                                            Adventure,                                                             Drama,                                                             Fantasy,                                                             Comedy,                                                             Animation,                                                             Family                                                    </span>
+                    </li>
+                                                                        <li class="stat product_avguserscore">
+                            <span class="label">User Score:</span>
+    <span class="data textscore textscore_outstanding">8.8</span>
+
+                    </li>
+                                                                                        <li class="stat runtime">
+                        <span class="label">Runtime:</span>
+                        <span class="data">94 min</span>
+                    </li>
+                                                
+            </ul>
+
+                    </div>
+    
+                                                                                                            </div>
+                                <p class="deck basic_stat">Growing up can be a bumpy road, and it’s no exception for Riley, who is uprooted from her Midwest life when her father starts a new job in San Francisco. Like all of us, Riley is guided by her...                            </div>
+                        </li>
+                                            
+                                                                                                                                                                                                                                                                                                                
+                        <li class="result">
+                            <div class="result_type">
+                                <strong>Movie</strong>
+                                                            </div>
+        
+                            <div class="result_wrap">
+                                <div class="basic_stats has_score">
+                                    <div class="main_stats">
+                                        <h3 class="product_title basic_stat"><a href="/movie/inside-out">Inside Out</a></h3>
+                                                                                                                
+
+        
+<span class="metascore_w medium movie negative">28</span>
+
+                                        
+                                                                        </div>
+                                                                                                                                        <div class="more_stats extended_stats">
+            <ul class="more_stats">
+                                                            <li class="stat release_date">
+                            <span class="label">Release Date:</span>
+                            <span class="data">September 9, 2011</span>
+                        </li>
+                                                                        <li class="stat rating">
+                        <span class="label">Rated:</span>
+                        <span class="data">
+                                                            PG-13
+                                                    </span>
+                    </li>
+                                                                    <li class="stat genre">
+                        <span class="label">Genre(s):</span>
+                        <span class="data">
+                                                            Drama,                                                             Crime                                                    </span>
+                    </li>
+                                                                        <li class="stat product_avguserscore">
+                            <span class="label">User Score:</span>
+    <span class="data textscore textscore_favorable">6.3</span>
+
+                    </li>
+                                                                                        <li class="stat runtime">
+                        <span class="label">Runtime:</span>
+                        <span class="data">93 min</span>
+                    </li>
+                                                
+            </ul>
+
+                    </div>
+    
+                                                                                                            </div>
+                                <p class="deck basic_stat">AJ always wanted a nice, quiet life.  For the past 10 years, his best friend Jack has been living it for him.  Now, after paying his debt, AJ is finally coming home – but he’s about to learn...                            </div>
+                        </li>
+                                            
+                                                                                                                                                                                                                                                                                                                
+                        <li class="result">
+                            <div class="result_type">
+                                <strong>Movie</strong>
+                                                            </div>
+        
+                            <div class="result_wrap">
+                                <div class="basic_stats has_score">
+                                    <div class="main_stats">
+                                        <h3 class="product_title basic_stat"><a href="/movie/music-from-the-inside-out">Music from the Inside Out</a></h3>
+                                                                                                                
+
+        
+<span class="metascore_w medium movie positive">67</span>
+
+                                        
+                                                                        </div>
+                                                                                                                                        <div class="more_stats extended_stats">
+            <ul class="more_stats">
+                                                            <li class="stat release_date">
+                            <span class="label">Release Date:</span>
+                            <span class="data">September 9, 2005</span>
+                        </li>
+                                                                                                        <li class="stat genre">
+                        <span class="label">Genre(s):</span>
+                        <span class="data">
+                                                            Documentary                                                    </span>
+                    </li>
+                                                                        <li class="stat product_avguserscore">
+                            <span class="label">User Score:</span>
+    <span class="data textscore textscore_favorable">7.4</span>
+
+                    </li>
+                                                                                        <li class="stat runtime">
+                        <span class="label">Runtime:</span>
+                        <span class="data">89 min</span>
+                    </li>
+                                                
+            </ul>
+
+                    </div>
+    
+                                                                                                            </div>
+                                <p class="deck basic_stat">This documentary is the result of a unique five-year collaboration between filmmaker Daniel Anker and the 105 musicians of the Philadelphia Orchestra. In an exhilarating 90-minute journey, the film...                            </div>
+                        </li>
+                                            
+                                                                                                                                                                                                                                                                                                                
+                        <li class="result">
+                            <div class="result_type">
+                                <strong>Movie</strong>
+                                                            </div>
+        
+                            <div class="result_wrap">
+                                <div class="basic_stats has_score">
+                                    <div class="main_stats">
+                                        <h3 class="product_title basic_stat"><a href="/movie/anton-corbijn-inside-out">Anton Corbijn Inside Out</a></h3>
+                                                                                                                
+
+        
+<span class="metascore_w medium movie mixed">54</span>
+
+                                        
+                                                                        </div>
+                                                                                                                                        <div class="more_stats extended_stats">
+            <ul class="more_stats">
+                                                                                        <li class="stat rating">
+                        <span class="label">Rated:</span>
+                        <span class="data">
+                                                            Not Rated
+                                                    </span>
+                    </li>
+                                                                    <li class="stat genre">
+                        <span class="label">Genre(s):</span>
+                        <span class="data">
+                                                            Biography,                                                             Documentary                                                    </span>
+                    </li>
+                                                                                                                        <li class="stat runtime">
+                        <span class="label">Runtime:</span>
+                        <span class="data">85 min</span>
+                    </li>
+                                                
+            </ul>
+
+                    </div>
+    
+                                                                                                            </div>
+                                <p class="deck basic_stat">Anton Corbijn Inside Out is an intimate and revealing portrait of an influential artist and the result of almost four years of filming by director Klaartje Quirijns.  Examining Corbijn's youth and...                            </div>
+                        </li>
+                                            
+                                                                                                                                                                                                                                                                                                                
+                        <li class="result">
+                            <div class="result_type">
+                                <strong>Movie</strong>
+                                                            </div>
+        
+                            <div class="result_wrap">
+                                <div class="basic_stats has_score">
+                                    <div class="main_stats">
+                                        <h3 class="product_title basic_stat"><a href="/movie/life-inside-out">Life Inside Out</a></h3>
+                                                                                                                
+
+        
+<span class="metascore_w medium movie mixed">57</span>
+
+                                        
+                                                                        </div>
+                                                                                                                                        <div class="more_stats extended_stats">
+            <ul class="more_stats">
+                                                            <li class="stat release_date">
+                            <span class="label">Release Date:</span>
+                            <span class="data">October 17, 2014</span>
+                        </li>
+                                                                        <li class="stat rating">
+                        <span class="label">Rated:</span>
+                        <span class="data">
+                                                            Not Rated
+                                                    </span>
+                    </li>
+                                                                    <li class="stat genre">
+                        <span class="label">Genre(s):</span>
+                        <span class="data">
+                                                            Drama                                                    </span>
+                    </li>
+                                                                                                                        <li class="stat runtime">
+                        <span class="label">Runtime:</span>
+                        <span class="data">102 min</span>
+                    </li>
+                                                
+            </ul>
+
+                    </div>
+    
+                                                                                                            </div>
+                                <p class="deck basic_stat">When Laura (Maggie Baird) stumbles upon her long forgotten guitar, she rediscovers her passion for music and songwriting. In an impulsive move to avoid attending another of her sister Lydia's...                            </div>
+                        </li>
+                                        </ul>
+
+                    
+                            </div>
+
+            <div id="adcontainer2" class="gsa_container"></div>
+        </div>
+    
+
+                            </div>
+                            <div id="side" class="col side_col">
+                    
+
+        <div id="mpu_plus_top" class="ad_unit">
+                        
+                            <script type="text/javascript">
+                                            
+                        googletag.cmd.push(function() {
+                        
+                                                            window.metac_g_ad_mpu_plus_top = googletag.defineSlot("/8264/aw-metacritic/search",[[300,250],[300,600]], "mpu_plus_top").addService(googletag.pubads()).setTargeting("pos", "top");
+                                                        
+                        
+                        });
+                        
+
+                        window.metac_ads_pushdisplay.push("mpu_plus_top");
+                                    </script>
+                            </div>
+    
+
+
+
+
+    
+
+    <div id="taboola-right-rail-thumbnails"></div>
+    
+    <script type="text/javascript">
+        if ( window._taboola ) {
+            var placement = 'desktop search Right Rail Thumbnails';
+            window.metac_tContentWidget.push(placement);
+            _taboola.push({
+                mode: 'alternating-thumbnails-rr',
+                container: 'taboola-right-rail-thumbnails',
+                placement: placement,
+                target_type: 'mix'
+            });
+        }
+    </script>
+    
+
+
+
+
+
+        <div id="mpu_bottom" class="ad_unit">
+                        
+                            <script type="text/javascript">
+                                            
+                        googletag.cmd.push(function() {
+                        
+                                                            window.metac_g_ad_mpu_bottom = googletag.defineSlot("/8264/aw-metacritic/search",[300,250], "mpu_bottom").addService(googletag.pubads()).setTargeting("pos", "bottom");
+                                                        
+                        
+                        });
+                        
+
+                        window.metac_ads_pushdisplay.push("mpu_bottom");
+                                    </script>
+                            </div>
+    
+
+                </div>
+                    </div>
+    </div>
+        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                    
+        <div id="leader_bottom" class="ad_unit">
+                        
+                            <script type="text/javascript">
+                                            
+                        googletag.cmd.push(function() {
+                        
+                                                            window.metac_g_ad_leader_bottom = googletag.defineSlot("/8264/aw-metacritic/search",[[728,90],[970,66],[728,92]], "leader_bottom").addService(googletag.pubads()).setTargeting("pos", "bottom");
+                                                        
+                        
+                        });
+                        
+
+                        window.metac_ads_pushdisplay.push("leader_bottom");
+                                    </script>
+                            </div>
+    
+
+
+            </div>
+                        
+        <div id="skin" class="ad_unit">
+                        
+                            <script type="text/javascript">
+                                            
+                        googletag.cmd.push(function() {
+                        
+                                                            window.metac_g_ad_skin = googletag.defineSlot("/8264/aw-metacritic/search",[1600,1000], "skin").addService(googletag.pubads()).setTargeting("pos", "top");
+                                                        
+                        
+                        });
+                        
+
+                        window.metac_ads_pushdisplay.push("skin");
+                                    </script>
+                            </div>
+    
+
+
+                            </div>
+            
+                        
+        <div id="intromercial" class="ad_unit">
+                        
+                            <script type="text/javascript">
+                                            
+                        googletag.cmd.push(function() {
+                        
+                                                            window.metac_g_ad_intromercial = googletag.defineOutOfPageSlot("/8264/aw-metacritic/search",
+                                    "intromercial").addService(googletag.pubads());
+                                                        
+                        
+                        });
+                        
+
+                        window.metac_ads_pushdisplay.push("intromercial");
+                                    </script>
+                            </div>
+    
+
+
+            
+    
+    <div id="mastfoot">
+        
+        <div id="site_footer" class="mastfoot_section">
+    <div class="mastfoot_wrap">
+		
+        
+         <div class="about_metacritic_nav"></div>
+
+
+			
+		<div id="providers">
+	<a href="http://www.allmusic.com">Music title data, credits, and images provided by <span>AMG</span></a>
+	<span class="link_divider">|</span><a href="http://www.imdb.com">Movie title data, credits, and poster art provided by <span>IMDb</span></a>
+	<span class="link_divider">|</span><a href="http://www.internetvideoarchive.com">Video and Images provided by <span>IVA</span></a>
+    <div id="trademark">
+        We Deal With Criticism<sup>&reg;</sup>&nbsp;
+	</div>
+</div>
+
+		<div class="soc_med_gms">
+		<div class="page_title">
+            
+            <img src="/images/layout/mc_logo_inverted.png">
+        </div>
+		
+		
+        
+		
+		    <div class="links social_media_nav">
+        <div class="links_label">Metacritic on:</div>                                                                            <ul class="links social_media_nav">
+                                                    <li class="link_item link_twitter first_link">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="twitter" href="http://twitter.com/metacritic">
+                                <span class="link_text">Twitter</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_facebook last_link">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="facebook" href="http://www.facebook.com/Metacritic">
+                                <span class="link_text">Facebook</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                            </ul>
+                        </div>
+
+		</div>
+		
+		
+		    <div class="links site_nav">
+                                                                                    <ul class="links site_nav">
+                                                    <li class="link_item link_movies first_link">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="movies" href="http://www.metacritic.com/movie">
+                                <span class="link_text">Movies</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_tv">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="tv" href="http://www.metacritic.com/tv">
+                                <span class="link_text">TV</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_music">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="music" href="http://www.metacritic.com/music">
+                                <span class="link_text">Music</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_ps4">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="ps4" href="http://www.metacritic.com/game/playstation-4">
+                                <span class="link_text">PS4</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_ps3">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="ps3" href="http://www.metacritic.com/game/playstation-3">
+                                <span class="link_text">PS3</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_xboxone">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="xboxone" href="http://www.metacritic.com/game/xbox-one">
+                                <span class="link_text">XboxOne</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_xbox360">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="xbox360" href="http://www.metacritic.com/game/xbox-360">
+                                <span class="link_text">Xbox360</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_pc">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="pc" href="http://www.metacritic.com/game/pc">
+                                <span class="link_text">PC</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_wii_u">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="wii_u" href="http://www.metacritic.com/game/wii-u">
+                                <span class="link_text">WiiU</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_3ds">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="3ds" href="http://www.metacritic.com/game/3ds">
+                                <span class="link_text">3DS</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_vita">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="vita" href="http://www.metacritic.com/game/playstation-vita">
+                                <span class="link_text">PS Vita</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_ios">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="ios" href="http://www.metacritic.com/game/ios">
+                                <span class="link_text">iOS</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_features">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="features" href="http://www.metacritic.com/feature">
+                                <span class="link_text">Features</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                                                        <li class="link_item link_rss_feeds last_link">
+                <span class="link_item">
+                    <span class="link_item_wrap">
+                                                    <a class="rss_feeds" href="http://www.metacritic.com/rss">
+                                <span class="link_text">RSS Feeds</span>
+                            </a>
+                                            </span>
+                </span>
+            </li>
+                            </ul>
+                        </div>
+
+    </div>
+</div>
+        <div id="corporate_footer" class="mastfoot_section">
+    <div class="mastfoot_wrap">
+                    
+            
+            <form id="cbs_related_sites_form" class="related_sites" action="">
+                <fieldset>
+                    <legend>Other CBS Interactive Sites</legend>
+                    <label for="cbsi_footer_menu">Visit other CBS Interactive Sites</label>
+                    <select id="cbsi_footer_menu">
+                        <option value="">Select Site</option>
+                                                    <option value="http://www.cbscares.com">CBS Cares</option>
+                                                    <option value="http://www.cbsfilms.com">CBS Films</option>
+                                                    <option value="http://www.cbsradio.com">CBS Radio</option>
+                                                    <option value="http://www.cbs.com">CBS.com</option>
+                                                    <option value="http://www.cbsinteractive.com">CBSInteractive</option>
+                                                    <option value="http://www.cbsnews.com">CBSNews.com</option>
+                                                    <option value="http://www.cbssports.com">CBSSports.com</option>
+                                                    <option value="http://www.chowhound.com">Chowhound</option>
+                                                    <option value="http://www.cnet.com">CNET</option>
+                                                    <option value="http://www.gamespot.com">GameSpot</option>
+                                                    <option value="http://www.help.com">Help.com</option>
+                                                    <option value="http://www.last.fm">Last.fm</option>
+                                                    <option value="http://www.maxpreps.com">MaxPreps</option>
+                                                    <option value="http://www.metacritic.com">Metacritic</option>
+                                                    <option value="http://moneywatch.bnet.com">Moneywatch</option>
+                                                    <option value="http://www.mysimon.com">mySimon</option>
+                                                    <option value="http://www.radio.com">Radio.com</option>
+                                                    <option value="http://www.search.com">Search.com</option>
+                                                    <option value="http://www.shopper.com">Shopper.com</option>
+                                                    <option value="http://www.sho.com">Showtime</option>
+                                                    <option value="http://www.smartplanet.com">SmartPlanet</option>
+                                                    <option value="http://www.techrepublic.com">TechRepublic</option>
+                                                    <option value="http://www.tv.com">TV.com</option>
+                                                    <option value="http://www.urbanbaby.com">UrbanBaby.com</option>
+                                                    <option value="http://www.zdnet.com">ZDNet</option>
+                                                    <option value="http://collegenetwork.cbssports.com">College Network</option>
+                                                    <option value="http://www.metrolyrics.com">MetroLyrics</option>
+                                                    <option value="http://www.tvguide.com/">TvGuide.com</option>
+                                            </select>
+                    <input type="button" value="Go" onclick="window.location=document.getElementById('cbsi_footer_menu').options[document.getElementById('cbsi_footer_menu').selectedIndex].value;" />
+                </fieldset>
+            </form>
+                <div class="about_cbs">
+            <p id="footer_about_links">
+                <a class="first" href="http://www.cbsinteractive.com">About CBS Interactive</a>
+                | <a href="http://www.cbsinteractive.com/careers/">Jobs</a>
+                | <a href="http://www.cbsinteractive.com/advertise/">Advertise</a>
+                | <a href="http://www.metacritic.com/faq">FAQ</a>
+                | <a href="http://www.metacritic.com/about-metacritic">About Metacritic</a>
+                | <a href="http://www.metacritic.com/contact-us">Contact</a>
+            </p>
+            <p id="footer_rights">
+                &copy; 2016 CBS Interactive Inc. All rights reserved.
+                <span id="footer_privacy">| <a href="http://legalterms.cbsinteractive.com/privacy">Privacy Policy</a></span>
+                <span id="footer_terms">| <a href="https://cbsi.secure.force.com/CBSi/articles/FAQ/CBSi-Terms-of-Use?template=template_tougl&referer=tougl.com&data=&cfs=default">Terms of Use</a></span>
+            </p>
+        </div>
+    </div>
+</div>
+    </div>
+</div>
+
+<div id="site_scripts" class="dw_tracking">
+     
+<script type="text/javascript" src="/js/omniture/uuid.js"></script>
+<script type="text/javascript">
+    var MC_UUID = uuid.v1();
+</script>
+
+
+
+
+<script type="text/javascript">
+    
+    
+    googletag.cmd.push(function() {
+        
+                    googletag.pubads().setTargeting("ptype", "search");
+            
+                            
+        googletag.pubads().setTargeting("vguid", MC_UUID);
+        googletag.pubads().setTargeting("env", "prod");
+                        var parts = window.location.hash.split("=");
+        if ( parts.length > 1 && parts[0] == '#ftag' ) {
+            googletag.pubads().setTargeting("ftag",parts[1]);
+        }
+                googletag.pubads().enableAsyncRendering();
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+    
+    
+</script>
+
+
+
+
+    
+    
+    
+        <script type="text/JavaScript" src="http://cn.cbsimg.net/cnwk.1d/Aud/javascript/urs.js"></script>
+    
+
+    <script type="text/javascript">
+        if ( window.MetaC && MetaC.URS ) {
+            MetaC.URS.config(227, false);
+        }
+    </script>
+
+
+ 
+<script language="JavaScript" type="text/javascript">
+    
+    var utag_data = {
+        isDev:0,
+                            siteType:"desktop web",
+                deviceType:"desktop",
+                siteSection:"movies",
+                pageType:"search",
+                pageFindingMethod:"External",
+                searchEventSearch:"1",userId:null,userState:"not authenticated",userType:"anon",searchTerm:"Inside Out",bkPath:"/8264/aw-metacritic/search",pageViewGuid:MC_UUID
+    };
+    
+    
+    
+    
+    if ( window.eventAmazonBuyView ) {
+        // omdata.context.eventAmazonBuyView = 1;
+        utag_data.eventAmazonBuyView = 1;
+    }
+    if ( window.eventAmazonPivView ) {
+        // omdata.context.eventAmazonPivView = 1;
+        utag_data.eventAmazonPivView = 1;
+    }
+    
+    
+    
+    if ( window.metac_tContentWidget && window.metac_tContentWidget.length > 0 ) {
+        utag_data.contentWidget = window.metac_tContentWidget.join('|');;
+    }
+    
+
+    
+</script>
+
+
+
+
+<script type="text/javascript">
+    (function(a,b,c,d){
+    a='//tags.tiqcdn.com/utag/cbsi/metacriticsite/prod/utag.js';
+    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+</script>
+
+
+
+<!-- Adobe Marketing Cloud Tag Loader Code-->
+
+
+
+
+
+
+    <script type="text/javascript">
+        // amc.on('load', function (event, data) {
+        $(document).ready(function(){
+            setTimeout(function(){
+                MetaC.checkOmniEvents();
+            }, 300);
+        });
+        // });
+    </script>
+
+
+
+
+
+
+<script type="text/javascript">
+    
+    dwVars = {"siteId":"50","onId":"1","ptId":"6056"};
+    if (typeof DW == "object"){
+        DW.pageParams = dwVars;
+        DW.regSilo = '12';
+        DW.clear();
+    }
+</script>
+
+
+
+
+<script>
+    var cbsiApexGlobal = {
+        'SITE': dwVars.siteId,
+        'NODE': dwVars.onId,
+        'PTYPE':dwVars.ptId
+    };
+</script>
+
+
+
+
+
+
+<script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-22577913-5']);
+    _gaq.push(['_setCustomVar',1,'PageType',dwVars.ptId,3]);
+    _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageLoadTime']);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['nT._setAccount', 'UA-27653683-1']);
+    _gaq.push(['nT._setAllowLinker', true]);
+    _gaq.push(['nT._setSampleRate', '1']);
+    _gaq.push(['nT._trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '123113677890173',
+            version    : 'v2.0',
+            channelUrl : 'http://www.metacritic.com/static/fbchannel.html',
+            status     : true,
+            xfbml      : true,
+            cookie     : true
+            });
+         MetaC.FB.initialized();
+        };
+    
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    
+</script>
+
+
+
+<script>
+    window.twttr = (function (d,s,id) {
+      var t, js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+      js.src="https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+      return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+    }(document, "script", "twitter-wjs"));
+
+    twttr.ready(function (twttr) {
+        MetaC.Twitter.initialized();
+    });
+</script>
+
+
+
+
+
+<script>
+    
+    if ( window._taboola ) {
+        _taboola.push({flush: true});
+    }
+    
+</script>
+
+
+
+    
+    
+    <script>
+    	if (typeof cbsiLoadOffer == "function"){
+                cbsiLoadOffer(cbsiApexGlobal,1000);
+        }
+    </script>
+    
+</div>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"860f7644b8","applicationID":"2033002","transactionName":"MgQEZ0dYCxEAVRBbDQtOJUZGTQoPTmUBUxAGCVwJR1wWFw1CFw==","queueTime":0,"applicationTime":232,"atts":"HkMTEQ9CGE5DV0YIGRgc","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+
+
+(u'movie_inside-out', u'Inside Out', 28, 60, u'http://www.metacritic.com/movie/inside-out', '2011-09-09', u'Drama,Crime', '')

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+	<title>MOVIES</title>
+	</head>
+	
+
+		<body>
+		
+		<!-- background = "movie pic.jpg"-->
+		
+			
+			<div id="menu" align = "middle">
+
+				<a href = "file:///E:/McHacks%20Project/layout%20searching.html">HOME</a> |
+				<a href = "/index.html">MOVIES</a> |
+				<a href = "About.html">ABOUT</a> 
+			</div>
+			<hr/>
+			
+		<center>
+			
+			<font size ="10">
+			<p>ICMDB</p>
+			</font>
+			<p>The Cult Movie </p>
+			
+			<img src = "naturepic.jpg" alt = "Nature Pic" height = "200" width = "500"/>
+			
+			<p></p>
+			
+			Movie Name: <input type = "text" name = "Movie_Name" />
+			<p></p>
+
+			<div id = "content" align = "left" bgcolor = "white">
+
+				<form>
+				<center>
+
+					Search Specification: <select name="dropdown" onChange ="window.location.href =this.value">
+						<!-- organize by date, popularity/number of views, high rating -->
+						<option value = "layout results rating.php" >By Rating</option>
+						<option value = "layout results popularity.php">By Popularity</option>
+						<option value = "layout results date.php" >By Date</option>
+						<option value = "Choose one..." selected>Choose one...</option>
+			
+					</select>
+					
+					<!-- okay button -->
+					<input type="button" onClick="Hello();" name = "Go" value = "layout results date.php" selected />
+				</center>
+			
+				</form>
+			</div>
+		</center>
+
+		</body>
+
+</html>
